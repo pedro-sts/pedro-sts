@@ -13,7 +13,7 @@
 ## 🫡 About Me:
 
 - I'm Pedro, an 18-year-old dev from 🇧🇷
-- Currently learning Python, but interested in starting Java
+- Currently learning Java and starting my Software Engineering course.
 - Backend ❤️
 
 <h2>💻 Language and Tools:</h2>
