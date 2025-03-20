@@ -14,7 +14,7 @@
 
 - I'm Pedro, an 18-year-old dev from 🇧🇷
 - Currently learning Java and starting my Software Engineering course.
-- Backend ❤️
+- Backend 🤝
 
 <h2>💻 Language and Tools:</h2>
 <div align="left">
