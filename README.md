@@ -37,9 +37,3 @@
 
 
 <img align="left" height="210" src='https://i.postimg.cc/JHh2HVDN/2218fb15d52f6434cc574749b39eef22.jpg' border='0' alt='2218fb15d52f6434cc574749b39eef22'/>
-
-<div align="left">
-  <a href="https://open.spotify.com/user/22zqjsxlahxzldfxnmn4tywdi">
-    <img height="190" src="https://spotify-recently-played-readme.vercel.app/api?user=22zqjsxlahxzldfxnmn4tywdi&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
