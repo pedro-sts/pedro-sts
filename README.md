@@ -13,16 +13,17 @@
 ## 🫡 About Me:
 
 - I'm Pedro, an 18-year-old dev from 🇧🇷
-- Currently learning Java and starting my Software Engineering course.
+- Currently learning more about Spring
+- Just started my Software Engineering course.
 - Backend 🤝
 
 <h2>💻 Language and Tools:</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
