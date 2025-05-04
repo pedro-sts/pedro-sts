@@ -13,7 +13,7 @@
 ## 🫡 About Me:
 
 - I'm Pedro, an 18-year-old dev from 🇧🇷
-- Currently learning more about Spring
+- Currently learning more about the Spring Framework.
 - Just started my Software Engineering course.
 - Backend 🤝
 
